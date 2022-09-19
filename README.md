@@ -1,5 +1,5 @@
 - 👋 sobre nós
-- 👀 nosso nome é @Mariaheloisaalvesdaluz e @giovanabusato
+- 👀 nosso nome é **@mariaheloisaalvesdaluz** e **@giovanabusato**
 - 🌱 meu gmail para contato é @maria.alves.luz@escola.pr.gov.br e @giovana.busato@escola.pr.gov.br
 - 💞️ estou interessada em aprender a programar novas linguagens 
 - 📫 estou aprendendo a programar recentemente a linguagem de Javascript e scrach
